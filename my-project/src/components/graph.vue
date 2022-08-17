@@ -9,7 +9,7 @@
         <el-date-picker
           v-model="start"
           type="year"
-          placeholder="起始年"
+          placeholder="开始年"
           value-format="yyyy"
         >
         </el-date-picker>
